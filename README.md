@@ -2,9 +2,9 @@
 This repository contains Python code for predicting stock prices using Long Short-Term Memory (LSTM) neural networks. The code imports financial data, preprocesses it, builds an LSTM model, and makes predictions on the stock's closing prices.
 
 # Table of Contents
-Prerequisites
-Usage
-Concepts and Techniques
+1. Prerequisites
+
+2. Concepts and Techniques
 
 ## Prerequisites
 Before running the code, make sure you have the following prerequisites installed:
